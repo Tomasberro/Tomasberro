@@ -1,6 +1,6 @@
 ### Hi there,  I´m Tomas! 👋
 
-<h3>Full Stack Developer && Economist</h3>
+<h3> Data Scientist && Full Stack Developer && Economist</h3>
 
 Interested in data science, finance and blockchain.
 I finished my software development studies at the bootcamp Soy Henry.
