@@ -9,11 +9,14 @@ Finishing my software development studies at Henry.
 <h4>Skills</h4>
 <ul>
 	<li>Javascript</li>
+	<li>Python</li>
 	<li>React/ Redux</li>
 	<li>Node JS</li>
   <li>PosgresSQL</li>
   <li>Express</li>
   <li>Sequelize</li>
+	<li>Pandas</li>
+	<li>Scikit-learn</li>
   <li>attitude😄</li>
 </ul>
 
