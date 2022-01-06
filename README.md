@@ -2,10 +2,11 @@
 
 <h3>Full Stack Developer && Economist</h3>
 
-⚡Interested in technology, finance and blockchain.
-Finishing my software development studies at Henry.
-✨I Built projects as a student, from a WeatherApp to a Pokedesk that allows you to see the available characters; the detail of each one; search by their respective name; create new  pokemons and add or remove them from favorites.
-✨Currently, I am working as a team, developing a cinema App that enables ticket sales and user management.
+Interested in data science, finance and blockchain.
+I finished my software development studies at the bootcamp Soy Henry.
+✨ I built projects as a student, from a WeatherApp to a Pokedesk that allows you to see the available characters; the detail of each one; search by their respective name; create new pokemons and add or remove them from favorites.
+✨ I have also worked as a team developing a cinema App where it is possible to sell tickets and manage users; and an E-commerce for the sale of exclusive design shoes; with the possibility of online sales, stock management, statistics dashboard, user interface and promotions.
+✨ I am currently carrying out Data science projects and seeking to insert myself into that field of work.
 <h4>Skills</h4>
 <ul>
 	<li>Javascript</li>
@@ -16,6 +17,8 @@ Finishing my software development studies at Henry.
   <li>Express</li>
   <li>Sequelize</li>
 	<li>Pandas</li>
+	<li>Numpy</li>
+	<li>Matplotlib</li>
 	<li>Scikit-learn</li>
   <li>attitude😄</li>
 </ul>
