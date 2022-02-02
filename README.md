@@ -13,7 +13,7 @@ I finished my software development studies at the bootcamp Soy Henry.
 	<li>Python</li>
 	<li>React/ Redux</li>
 	<li>Node JS</li>
-  <li>PosgresSQL</li>
+  <li>PostgreSQL</li>
   <li>Express</li>
   <li>Sequelize</li>
 	<li>Pandas</li>
